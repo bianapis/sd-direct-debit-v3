@@ -1,0 +1,26 @@
+{
+  "paymentTrackingRetrieveActionTaskRecord" : {},
+  "paymentTrackingPostconditions" : "paymentTrackingPostconditions",
+  "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct" : "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct",
+  "paymentTrackingPreconditions" : "paymentTrackingPreconditions",
+  "directDebitPaymentTracking" : "directDebitPaymentTracking",
+  "paymentTrackingDirectDebitPaymentTrackingServiceDescription" : "paymentTrackingDirectDebitPaymentTrackingServiceDescription",
+  "paymentTrackingInstanceAnalysis" : {
+    "paymentTrackingInstanceAnalysisReport" : {},
+    "paymentTrackingInstanceAnalysisParameters" : "paymentTrackingInstanceAnalysisParameters",
+    "paymentTrackingInstanceAnalysisRecord" : {},
+    "paymentTrackingInstanceAnalysisReportType" : "paymentTrackingInstanceAnalysisReportType"
+  },
+  "paymentTrackingRetrieveActionResponse" : "paymentTrackingRetrieveActionResponse",
+  "paymentTrackingInstanceReport" : {
+    "paymentTrackingInstanceReportRecord" : {},
+    "paymentTrackingInstanceReportParameters" : "paymentTrackingInstanceReportParameters",
+    "paymentTrackingInstanceReport" : {},
+    "paymentTrackingInstanceReportType" : "paymentTrackingInstanceReportType"
+  },
+  "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs" : "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs",
+  "paymentTrackingDirectDebitPaymentTrackingServiceName" : "paymentTrackingDirectDebitPaymentTrackingServiceName",
+  "paymentTrackingDirectDebitPaymentTrackingServiceType" : "paymentTrackingDirectDebitPaymentTrackingServiceType",
+  "paymentTrackingFeatureSchedule" : "paymentTrackingFeatureSchedule",
+  "paymentTrackingRetrieveActionTaskReference" : "PTRATR783139"
+}

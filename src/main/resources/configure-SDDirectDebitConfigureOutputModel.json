@@ -1,0 +1,21 @@
+{
+  "directDebitConfigurationActionTaskRecord" : {},
+  "directDebitConfigurationActionTaskReference" : "SCATR765419",
+  "directDebitServiceConfigurationRecord" : {
+    "directDebitServiceConfigurationSetup" : {
+      "directDebitServiceConfigurationParameter" : "directDebitServiceConfigurationParameter"
+    },
+    "directDebitServiceSubscription" : {
+      "directDebitServiceSubscriberAccessProfile" : "directDebitServiceSubscriberAccessProfile",
+      "directDebitServiceSubscriberReference" : "756221"
+    },
+    "directDebitServiceAgreement" : {
+      "directDebitServiceAgreementTermsandConditions" : "directDebitServiceAgreementTermsandConditions",
+      "directDebitServiceUserReference" : "733696",
+      "directDebitServiceAgreementReference" : "721156"
+    },
+    "directDebitServiceStatus" : "directDebitServiceStatus",
+    "directDebitServiceConfigurationSettingDescription" : "directDebitServiceConfigurationSettingDescription"
+  },
+  "directDebitServicingSessionStatus" : "directDebitServicingSessionStatus"
+}

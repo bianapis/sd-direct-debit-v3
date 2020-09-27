@@ -1,0 +1,39 @@
+{
+  "directDebitRetrieveActionRecord" : {
+    "directDebitPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "directDebitActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    }
+  },
+  "directDebitOfferedService" : {
+    "directDebitServiceRecord" : {
+      "directDebitServiceDescription" : "directDebitServiceDescription",
+      "directDebitServicePoliciesandGuidelines" : {
+        "directDebitServicePricingandTerms" : "directDebitServicePricingandTerms",
+        "directDebitServiceEligibility" : "directDebitServiceEligibility",
+        "directDebitServiceIntendedUses" : "directDebitServiceIntendedUses"
+      },
+      "directDebitServiceSchedule" : "directDebitServiceSchedule",
+      "directDebitServiceVersion" : "directDebitServiceVersion",
+      "directDebitServiceType" : "directDebitServiceType"
+    },
+    "directDebitServiceReference" : "776158"
+  },
+  "directDebitRetrieveActionTaskRecord" : {},
+  "directDebitRetrieveActionTaskReference" : "SRATR795161",
+  "directDebitRetrieveActionResponse" : "directDebitRetrieveActionResponse"
+}

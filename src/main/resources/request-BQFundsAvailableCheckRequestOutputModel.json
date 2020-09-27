@@ -1,0 +1,13 @@
+{
+  "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs" : "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs",
+  "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct" : "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct",
+  "fundsAvailableCheckRequestRecordReference" : "FACRRR768691",
+  "fundsAvailableCheckRequestActionTaskReference" : "FACRATR790443",
+  "fundsAvailableCheckPreconditions" : "fundsAvailableCheckPreconditions",
+  "fundsAvailableCheckPostconditions" : "fundsAvailableCheckPostconditions",
+  "fundsAvailableCheckFeatureSchedule" : "fundsAvailableCheckFeatureSchedule",
+  "fundsAvailableCheckFundsAvailableCheckServiceType" : "fundsAvailableCheckFundsAvailableCheckServiceType",
+  "fundsAvailableCheckFundsAvailableCheckServiceDescription" : "fundsAvailableCheckFundsAvailableCheckServiceDescription",
+  "requestResponseRecord" : {},
+  "fundsAvailableCheckRequestActionTaskRecord" : {}
+}

@@ -1,0 +1,24 @@
+{
+  "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs" : "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs",
+  "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct" : "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct",
+  "fundsAvailableCheckRetrieveActionTaskRecord" : {},
+  "fundsAvailableCheckRetrieveActionTaskReference" : "FACRATR706389",
+  "fundsAvailableCheckPreconditions" : "fundsAvailableCheckPreconditions",
+  "fundsAvailableCheckPostconditions" : "fundsAvailableCheckPostconditions",
+  "fundsAvailableCheckFeatureSchedule" : "fundsAvailableCheckFeatureSchedule",
+  "fundsAvailableCheckRetrieveActionResponse" : "fundsAvailableCheckRetrieveActionResponse",
+  "fundsAvailableCheckInstanceReport" : {
+    "fundsAvailableCheckInstanceReportParameters" : "fundsAvailableCheckInstanceReportParameters",
+    "fundsAvailableCheckInstanceReport" : {},
+    "fundsAvailableCheckInstanceReportRecord" : {},
+    "fundsAvailableCheckInstanceReportType" : "fundsAvailableCheckInstanceReportType"
+  },
+  "fundsAvailableCheckFundsAvailableCheckServiceType" : "fundsAvailableCheckFundsAvailableCheckServiceType",
+  "fundsAvailableCheckFundsAvailableCheckServiceDescription" : "fundsAvailableCheckFundsAvailableCheckServiceDescription",
+  "fundsAvailableCheckInstanceAnalysis" : {
+    "fundsAvailableCheckInstanceAnalysisRecord" : {},
+    "fundsAvailableCheckInstanceAnalysisParameters" : "fundsAvailableCheckInstanceAnalysisParameters",
+    "fundsAvailableCheckInstanceAnalysisReportType" : "fundsAvailableCheckInstanceAnalysisReportType",
+    "fundsAvailableCheckInstanceAnalysisReport" : {}
+  }
+}

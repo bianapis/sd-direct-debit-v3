@@ -1,0 +1,28 @@
+{
+  "directDebitArrangementAccountReference" : "DDAAR733876",
+  "directDebitArrangementSchedule" : "directDebitArrangementSchedule",
+  "directDebitArrangementParameterType" : "directDebitArrangementParameterType",
+  "directDebitArrangementRegulationReference" : "DDARR734177",
+  "directDebitArrangementRetrieveActionTaskReference" : "DDARATR797758",
+  "directDebitArrangementInstanceReportRecord" : {
+    "directDebitArrangementInstanceReport" : {},
+    "directDebitArrangementInstanceReportData" : "directDebitArrangementInstanceReportData",
+    "directDebitArrangementInstanceReportType" : "directDebitArrangementInstanceReportType"
+  },
+  "directDebitArrangementBookingLocation" : "directDebitArrangementBookingLocation",
+  "directDebitArrangementInstanceAnalysis" : {
+    "directDebitArrangementInstanceAnalysisData" : "directDebitArrangementInstanceAnalysisData",
+    "directDebitArrangementInstanceAnalysisReportType" : "directDebitArrangementInstanceAnalysisReportType",
+    "directDebitArrangementInstanceAnalysisReport" : {}
+  },
+  "directDebitArrangementSelectedOption" : "directDebitArrangementSelectedOption",
+  "directDebitArrangementReference" : "DDAR721600",
+  "directDebitArrangementRegulationType" : "directDebitArrangementRegulationType",
+  "directDebitArrangementType" : "directDebitArrangementType",
+  "directDebitArrangementStatus" : "directDebitArrangementStatus",
+  "directDebitArrangementRetrieveActionResponse" : "directDebitArrangementRetrieveActionResponse",
+  "directDebitArrangementCurrency" : "USD",
+  "directDebitArrangementJurisdiction" : "directDebitArrangementJurisdiction",
+  "directDebitArrangementRetrieveActionTaskRecord" : {},
+  "directDebitArrangementAccountType" : "directDebitArrangementAccountType"
+}

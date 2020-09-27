@@ -1,0 +1,26 @@
+{
+  "directDebitMandateCheck" : "directDebitMandateCheck",
+  "verifyMandateDirectDebitMandateCheckServiceInputsandOuputs" : "verifyMandateDirectDebitMandateCheckServiceInputsandOuputs",
+  "verifyMandateInstanceReport" : {
+    "verifyMandateInstanceReportRecord" : {},
+    "verifyMandateInstanceReportParameters" : "verifyMandateInstanceReportParameters",
+    "verifyMandateInstanceReportType" : "verifyMandateInstanceReportType",
+    "verifyMandateInstanceReport" : {}
+  },
+  "verifyMandateDirectDebitMandateCheckServiceWorkProduct" : "verifyMandateDirectDebitMandateCheckServiceWorkProduct",
+  "verifyMandatePostconditions" : "verifyMandatePostconditions",
+  "verifyMandatePreconditions" : "verifyMandatePreconditions",
+  "verifyMandateDirectDebitMandateCheckServiceName" : "verifyMandateDirectDebitMandateCheckServiceName",
+  "verifyMandateFeatureSchedule" : "verifyMandateFeatureSchedule",
+  "verifyMandateRetrieveActionTaskReference" : "VMRATR736465",
+  "verifyMandateRetrieveActionResponse" : "verifyMandateRetrieveActionResponse",
+  "verifyMandateDirectDebitMandateCheckServiceDescription" : "verifyMandateDirectDebitMandateCheckServiceDescription",
+  "verifyMandateDirectDebitMandateCheckServiceType" : "verifyMandateDirectDebitMandateCheckServiceType",
+  "verifyMandateRetrieveActionTaskRecord" : {},
+  "verifyMandateInstanceAnalysis" : {
+    "verifyMandateInstanceAnalysisRecord" : {},
+    "verifyMandateInstanceAnalysisParameters" : "verifyMandateInstanceAnalysisParameters",
+    "verifyMandateInstanceAnalysisReport" : {},
+    "verifyMandateInstanceAnalysisReportType" : "verifyMandateInstanceAnalysisReportType"
+  }
+}

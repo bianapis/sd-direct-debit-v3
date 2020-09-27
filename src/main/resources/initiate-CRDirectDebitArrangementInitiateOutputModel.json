@@ -1,0 +1,10 @@
+{
+  "directDebitArrangementInstanceReference" : "DDAIR789241",
+  "directDebitArrangementSelectedOption" : "directDebitArrangementSelectedOption",
+  "directDebitArrangementSchedule" : "directDebitArrangementSchedule",
+  "directDebitArrangementInitiateActionReference" : "DDAIAR760225",
+  "directDebitArrangementParameterType" : "directDebitArrangementParameterType",
+  "directDebitArrangementInitiateActionRecord" : {},
+  "directDebitArrangementStatus" : "directDebitArrangementStatus",
+  "directDebitArrangementInstanceStatus" : "directDebitArrangementInstanceStatus"
+}

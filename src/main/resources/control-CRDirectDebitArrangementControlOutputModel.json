@@ -1,0 +1,9 @@
+{
+  "directDebitArrangementSelectedOption" : "directDebitArrangementSelectedOption",
+  "directDebitArrangementControlActionTaskReference" : "DDACATR752140",
+  "directDebitArrangementSchedule" : "directDebitArrangementSchedule",
+  "directDebitArrangementParameterType" : "directDebitArrangementParameterType",
+  "directDebitArrangementStatus" : "directDebitArrangementStatus",
+  "directDebitArrangementControlActionResponse" : "directDebitArrangementControlActionResponse",
+  "directDebitArrangementControlActionTaskRecord" : {}
+}

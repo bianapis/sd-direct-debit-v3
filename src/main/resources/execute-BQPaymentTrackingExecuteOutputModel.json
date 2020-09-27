@@ -1,0 +1,15 @@
+{
+  "paymentTrackingPostconditions" : "paymentTrackingPostconditions",
+  "executeResponseRecord" : {},
+  "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct" : "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct",
+  "paymentTrackingExecuteActionTaskRecord" : {},
+  "paymentTrackingPreconditions" : "paymentTrackingPreconditions",
+  "directDebitPaymentTracking" : "directDebitPaymentTracking",
+  "paymentTrackingDirectDebitPaymentTrackingServiceDescription" : "paymentTrackingDirectDebitPaymentTrackingServiceDescription",
+  "paymentTrackingExecuteActionTaskReference" : "PTEATR762164",
+  "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs" : "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs",
+  "paymentTrackingDirectDebitPaymentTrackingServiceName" : "paymentTrackingDirectDebitPaymentTrackingServiceName",
+  "paymentTrackingDirectDebitPaymentTrackingServiceType" : "paymentTrackingDirectDebitPaymentTrackingServiceType",
+  "paymentTrackingExecuteRecordReference" : "PTERR716724",
+  "paymentTrackingFeatureSchedule" : "paymentTrackingFeatureSchedule"
+}

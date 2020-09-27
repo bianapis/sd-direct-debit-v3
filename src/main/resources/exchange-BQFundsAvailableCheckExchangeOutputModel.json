@@ -1,0 +1,13 @@
+{
+  "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs" : "fundsAvailableCheckFundsAvailableCheckServiceInputsandOuputs",
+  "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct" : "fundsAvailableCheckFundsAvailableCheckServiceWorkProduct",
+  "fundsAvailableCheckExchangeActionTaskReference" : "FACEATR787191",
+  "fundsAvailableCheckExchangeActionTaskRecord" : {},
+  "fundsAvailableCheckExchangeActionResponse" : "fundsAvailableCheckExchangeActionResponse",
+  "fundsAvailableCheckPreconditions" : "fundsAvailableCheckPreconditions",
+  "fundsAvailableCheckPostconditions" : "fundsAvailableCheckPostconditions",
+  "fundsAvailableCheckFeatureSchedule" : "fundsAvailableCheckFeatureSchedule",
+  "fundsAvailableCheckInstanceStatus" : "fundsAvailableCheckInstanceStatus",
+  "fundsAvailableCheckFundsAvailableCheckServiceType" : "fundsAvailableCheckFundsAvailableCheckServiceType",
+  "fundsAvailableCheckFundsAvailableCheckServiceDescription" : "fundsAvailableCheckFundsAvailableCheckServiceDescription"
+}

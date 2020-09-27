@@ -1,0 +1,15 @@
+{
+  "reportingInitiateActionReference" : "RIAR707181",
+  "reportingFeatureSchedule" : "reportingFeatureSchedule",
+  "businessService" : "businessService",
+  "reportingInstanceReference" : "RIR749614",
+  "reportingServiceInputsandOuputs" : "reportingServiceInputsandOuputs",
+  "reportingInstanceStatus" : "reportingInstanceStatus",
+  "reportingPreconditions" : "reportingPreconditions",
+  "reportingServiceName" : "reportingServiceName",
+  "reportingInitiateActionRecord" : {},
+  "reportingServiceWorkProduct" : "reportingServiceWorkProduct",
+  "reportingPostconditions" : "reportingPostconditions",
+  "reportingServiceType" : "reportingServiceType",
+  "reportingServiceDescription" : "reportingServiceDescription"
+}

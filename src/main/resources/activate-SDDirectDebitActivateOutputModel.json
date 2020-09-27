@@ -1,0 +1,24 @@
+{
+  "directDebitServicingSessionRecord" : {},
+  "directDebitServiceConfigurationRecord" : {
+    "directDebitServiceConfigurationSetup" : {
+      "directDebitServiceConfigurationParameter" : "directDebitServiceConfigurationParameter"
+    },
+    "directDebitServiceSubscription" : {
+      "directDebitServiceSubscriberAccessProfile" : "directDebitServiceSubscriberAccessProfile",
+      "directDebitServiceSubscriberReference" : "769192"
+    },
+    "directDebitServiceAgreement" : {
+      "directDebitServiceAgreementTermsandConditions" : "directDebitServiceAgreementTermsandConditions",
+      "directDebitServiceUserReference" : "767210",
+      "directDebitServiceAgreementReference" : "791202"
+    },
+    "directDebitServiceConfigurationSettingReference" : "700761",
+    "directDebitServiceStatus" : "directDebitServiceStatus",
+    "directDebitServiceConfigurationSettingDescription" : "directDebitServiceConfigurationSettingDescription"
+  },
+  "directDebitActivationActionTaskRecord" : {},
+  "directDebitServicingSessionStatus" : "directDebitServicingSessionStatus",
+  "directDebitServicingSessionReference" : "SSSR783215",
+  "directDebitActivationActionTaskReference" : "SAATR758836"
+}

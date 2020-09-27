@@ -1,0 +1,15 @@
+{
+  "directDebitMandateCheck" : "directDebitMandateCheck",
+  "verifyMandateDirectDebitMandateCheckServiceInputsandOuputs" : "verifyMandateDirectDebitMandateCheckServiceInputsandOuputs",
+  "verifyMandateInstanceStatus" : "verifyMandateInstanceStatus",
+  "verifyMandateDirectDebitMandateCheckServiceWorkProduct" : "verifyMandateDirectDebitMandateCheckServiceWorkProduct",
+  "verifyMandatePostconditions" : "verifyMandatePostconditions",
+  "verifyMandatePreconditions" : "verifyMandatePreconditions",
+  "verifyMandateDirectDebitMandateCheckServiceName" : "verifyMandateDirectDebitMandateCheckServiceName",
+  "verifyMandateFeatureSchedule" : "verifyMandateFeatureSchedule",
+  "verifyMandateExchangeActionTaskRecord" : {},
+  "verifyMandateExchangeActionResponse" : "verifyMandateExchangeActionResponse",
+  "verifyMandateDirectDebitMandateCheckServiceDescription" : "verifyMandateDirectDebitMandateCheckServiceDescription",
+  "verifyMandateDirectDebitMandateCheckServiceType" : "verifyMandateDirectDebitMandateCheckServiceType",
+  "verifyMandateExchangeActionTaskReference" : "VMEATR748818"
+}

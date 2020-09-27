@@ -1,0 +1,15 @@
+{
+  "paymentTrackingPostconditions" : "paymentTrackingPostconditions",
+  "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct" : "paymentTrackingDirectDebitPaymentTrackingServiceWorkProduct",
+  "paymentTrackingPreconditions" : "paymentTrackingPreconditions",
+  "directDebitPaymentTracking" : "directDebitPaymentTracking",
+  "paymentTrackingDirectDebitPaymentTrackingServiceDescription" : "paymentTrackingDirectDebitPaymentTrackingServiceDescription",
+  "paymentTrackingControlActionTaskReference" : "PTCATR714465",
+  "paymentTrackingInstanceStatus" : "paymentTrackingInstanceStatus",
+  "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs" : "paymentTrackingDirectDebitPaymentTrackingServiceInputsandOuputs",
+  "paymentTrackingDirectDebitPaymentTrackingServiceName" : "paymentTrackingDirectDebitPaymentTrackingServiceName",
+  "paymentTrackingDirectDebitPaymentTrackingServiceType" : "paymentTrackingDirectDebitPaymentTrackingServiceType",
+  "paymentTrackingControlActionTaskRecord" : {},
+  "paymentTrackingFeatureSchedule" : "paymentTrackingFeatureSchedule",
+  "paymentTrackingControlActionResponse" : "paymentTrackingControlActionResponse"
+}

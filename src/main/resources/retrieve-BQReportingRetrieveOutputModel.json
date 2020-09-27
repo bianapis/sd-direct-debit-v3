@@ -1,0 +1,26 @@
+{
+  "reportingFeatureSchedule" : "reportingFeatureSchedule",
+  "businessService" : "businessService",
+  "reportingRetrieveActionTaskReference" : "RRATR727038",
+  "reportingRetrieveActionResponse" : "reportingRetrieveActionResponse",
+  "reportingRetrieveActionTaskRecord" : {},
+  "reportingServiceInputsandOuputs" : "reportingServiceInputsandOuputs",
+  "reportingPreconditions" : "reportingPreconditions",
+  "reportingServiceName" : "reportingServiceName",
+  "reportingInstanceReport" : {
+    "reportingInstanceReportType" : "reportingInstanceReportType",
+    "reportingInstanceReportRecord" : {},
+    "reportingInstanceReport" : {},
+    "reportingInstanceReportParameters" : "reportingInstanceReportParameters"
+  },
+  "reportingServiceWorkProduct" : "reportingServiceWorkProduct",
+  "reportingInstanceAnalysis" : {
+    "reportingInstanceAnalysisRecord" : {},
+    "reportingInstanceAnalysisParameters" : "reportingInstanceAnalysisParameters",
+    "reportingInstanceAnalysisReportType" : "reportingInstanceAnalysisReportType",
+    "reportingInstanceAnalysisReport" : {}
+  },
+  "reportingPostconditions" : "reportingPostconditions",
+  "reportingServiceType" : "reportingServiceType",
+  "reportingServiceDescription" : "reportingServiceDescription"
+}

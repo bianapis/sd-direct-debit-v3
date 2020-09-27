@@ -1,0 +1,26 @@
+{
+  "paymentInitiationRetrieveActionTaskReference" : "PIRATR702867",
+  "paymentInitiationPreconditions" : "paymentInitiationPreconditions",
+  "paymentInitiationFeatureSchedule" : "paymentInitiationFeatureSchedule",
+  "paymentInitiationDirectDebitPaymentInitiationServiceWorkProduct" : "paymentInitiationDirectDebitPaymentInitiationServiceWorkProduct",
+  "paymentInitiationDirectDebitPaymentInitiationServiceName" : "paymentInitiationDirectDebitPaymentInitiationServiceName",
+  "paymentInitiationDirectDebitPaymentInitiationServiceDescription" : "paymentInitiationDirectDebitPaymentInitiationServiceDescription",
+  "paymentInitiationRetrieveActionTaskRecord" : {},
+  "paymentInitiationInstanceReport" : {
+    "paymentInitiationInstanceReportRecord" : {},
+    "paymentInitiationInstanceReportType" : "paymentInitiationInstanceReportType",
+    "paymentInitiationInstanceReport" : {},
+    "paymentInitiationInstanceReportParameters" : "paymentInitiationInstanceReportParameters"
+  },
+  "paymentInitiationDirectDebitPaymentInitiationServiceInputsandOuputs" : "paymentInitiationDirectDebitPaymentInitiationServiceInputsandOuputs",
+  "directDebitPaymentInitiation" : "directDebitPaymentInitiation",
+  "paymentInitiationInstanceAnalysis" : {
+    "paymentInitiationInstanceAnalysisParameters" : "paymentInitiationInstanceAnalysisParameters",
+    "paymentInitiationInstanceAnalysisReportType" : "paymentInitiationInstanceAnalysisReportType",
+    "paymentInitiationInstanceAnalysisReport" : {},
+    "paymentInitiationInstanceAnalysisRecord" : {}
+  },
+  "paymentInitiationPostconditions" : "paymentInitiationPostconditions",
+  "paymentInitiationRetrieveActionResponse" : "paymentInitiationRetrieveActionResponse",
+  "paymentInitiationDirectDebitPaymentInitiationServiceType" : "paymentInitiationDirectDebitPaymentInitiationServiceType"
+}

@@ -1,0 +1,15 @@
+{
+  "paymentInitiationExchangeActionTaskReference" : "PIEATR766999",
+  "paymentInitiationExchangeActionResponse" : "paymentInitiationExchangeActionResponse",
+  "paymentInitiationInstanceStatus" : "paymentInitiationInstanceStatus",
+  "paymentInitiationPreconditions" : "paymentInitiationPreconditions",
+  "paymentInitiationExchangeActionTaskRecord" : {},
+  "paymentInitiationFeatureSchedule" : "paymentInitiationFeatureSchedule",
+  "paymentInitiationDirectDebitPaymentInitiationServiceWorkProduct" : "paymentInitiationDirectDebitPaymentInitiationServiceWorkProduct",
+  "paymentInitiationDirectDebitPaymentInitiationServiceName" : "paymentInitiationDirectDebitPaymentInitiationServiceName",
+  "paymentInitiationDirectDebitPaymentInitiationServiceDescription" : "paymentInitiationDirectDebitPaymentInitiationServiceDescription",
+  "paymentInitiationDirectDebitPaymentInitiationServiceInputsandOuputs" : "paymentInitiationDirectDebitPaymentInitiationServiceInputsandOuputs",
+  "directDebitPaymentInitiation" : "directDebitPaymentInitiation",
+  "paymentInitiationPostconditions" : "paymentInitiationPostconditions",
+  "paymentInitiationDirectDebitPaymentInitiationServiceType" : "paymentInitiationDirectDebitPaymentInitiationServiceType"
+}
